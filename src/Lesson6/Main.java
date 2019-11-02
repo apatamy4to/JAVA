@@ -15,6 +15,7 @@ public class Main {
             animals[i].swim(5);
             animals[i].jump(2);
 
+
         }
 
     }
